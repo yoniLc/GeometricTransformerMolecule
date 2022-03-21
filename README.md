@@ -1,11 +1,12 @@
 # Geometric Transformer for End-to-End Molecule Properties Prediction
 
-An implementation of the Geometric Transformer described in ["Geometric Transformer for End-to-End Molecule Properties Prediction
+Implementation of the Geometric Transformer described in ["Geometric Transformer for End-to-End Molecule Properties Prediction
 " (IJCAI 2022)](https://arxiv.org/abs/2110.13721).
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/10303791/159278549-d00ab6ee-6e54-473e-b62a-8acdcd079253.PNG" alt="Geometric Transformer"
-width="350px"></p>
+<img src="https://user-images.githubusercontent.com/10303791/159278549-d00ab6ee-6e54-473e-b62a-8acdcd079253.PNG" width="550px">
+ <img src="https://user-images.githubusercontent.com/10303791/159279942-3a80030b-e634-46aa-b85f-5fa192ab8f1a.PNG" width="250px">
+</p>
 
 ## Abstract
 
