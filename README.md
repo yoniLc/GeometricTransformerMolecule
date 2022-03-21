@@ -1,13 +1,12 @@
 # Geometric Transformer for End-to-End Molecule Properties Prediction
 
 An implementation of the Geometric Transformer described in ["Geometric Transformer for End-to-End Molecule Properties Prediction
-" (IJCAI 2022)](https://arxiv.org/abs/1909.09036).
+" (IJCAI 2022)](https://arxiv.org/abs/2110.13721).
 
 
 <p align="center">
 <img src="./transformer_image_3.PNG" alt="Geometric Transformer"
 width="350px"></p>
-
 
 ## Abstract
 
@@ -21,14 +20,8 @@ The proposed framework outperforms the state-of-the-art methods while being base
 
 ## Install
 - Pytorch 1.13.1
-- Python3 (Recommend Anaconda)
-- `pip install -r requirements.txt`
 
-## Results reproduction
-To reproduce the performance of the main model in our paper for BCH(63,51):
-
-1. Run `python main.py`
-2. Training with GPU. For 3 days of training with V100 32GB GPU. At epoch ±316 you should get this BER results:
+## Script
 
 ## Reference
 If you find this repo helpful, please consider citing:
