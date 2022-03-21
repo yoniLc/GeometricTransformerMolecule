@@ -3,9 +3,8 @@
 An implementation of the Geometric Transformer described in ["Geometric Transformer for End-to-End Molecule Properties Prediction
 " (IJCAI 2022)](https://arxiv.org/abs/2110.13721).
 
-
 <p align="center">
-<img src="./transformer_image_3.PNG" alt="Geometric Transformer"
+<img src="https://user-images.githubusercontent.com/10303791/159278549-d00ab6ee-6e54-473e-b62a-8acdcd079253.PNG" alt="Geometric Transformer"
 width="350px"></p>
 
 ## Abstract
