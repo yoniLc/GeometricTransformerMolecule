@@ -20,11 +20,16 @@ The proposed framework outperforms the state-of-the-art methods while being base
 
 ## Install
 - Pytorch 1.13.1
+- Schnetpack (Data management)
 
 ## Script
 
 ## Reference
-If you find this repo helpful, please consider citing:
-    
+
+        @article{choukroun2021geometric,title={Geometric Transformer for End-to-End Molecule Properties Prediction},
+        author={Choukroun, Yoni and Wolf, Lior},
+        journal={arXiv preprint arXiv:2110.13721},
+        year={2021}
+        }
 ## License
 This repo is MIT licensed.
