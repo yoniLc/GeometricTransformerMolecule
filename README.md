@@ -23,7 +23,9 @@ The proposed framework outperforms the state-of-the-art methods while being base
 - Schnetpack (Data management)
 
 ## Script
+Use the following command to train, on GPU 0, the proposed Geometric Transformer on the Atomization Energy property (U0):
 
+`python Main.py --gpu=0 --property=U0`
 ## Reference
 
         @article{choukroun2021geometric,title={Geometric Transformer for End-to-End Molecule Properties Prediction},
