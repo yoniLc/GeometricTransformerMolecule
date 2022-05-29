@@ -28,7 +28,8 @@ Use the following command to train, on GPU 0, the proposed Geometric Transformer
 `python Main.py --gpu=0 --property=U0`
 ## Reference
 
-        @article{choukroun2021geometric,title={Geometric Transformer for End-to-End Molecule Properties Prediction},
+        @article{choukroun2021geometric,
+        title={Geometric Transformer for End-to-End Molecule Properties Prediction},
         author={Choukroun, Yoni and Wolf, Lior},
         journal={arXiv preprint arXiv:2110.13721},
         year={2021}
