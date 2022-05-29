@@ -19,7 +19,7 @@ The proposed framework outperforms the state-of-the-art methods while being base
 
 
 ## Install
-- Pytorch 1.13.1
+- Pytorch 1.11.1
 - Schnetpack (Data management)
 
 ## Script
