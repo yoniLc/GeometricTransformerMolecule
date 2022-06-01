@@ -157,6 +157,7 @@ class MultiHeadedAttention(nn.Module):
                 0)
 
         p_attn = F.softmax(scores, dim=-1)
+        #TODO put the **2 before the repeat
         p_attn = p_attn * src_distances.unsqueeze(1).repeat(1,
                                                             heads,
                                                             1,
